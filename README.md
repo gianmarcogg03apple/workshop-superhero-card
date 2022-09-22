@@ -48,7 +48,7 @@ Explore Xcode, the essential tool of a world Class Developer, by becoming a supe
 
 |                               Superhero Card                               |                                  Xcode                                          |
 | :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="docs/images/SuperheroCardGianmarco.png" title="Superhero Card" width="100%"> | <img src="docs/images/SuperheroCardXcode.png" title="Xcode" width="100%"> |
+| <img src="docs/images/SuperheroCardGianmarco.jpg" title="Superhero Card" width="100%"> | <img src="docs/images/SuperheroCardGianmarcoXcode.png" title="Xcode" width="100%"> |
 
 <br />
 
