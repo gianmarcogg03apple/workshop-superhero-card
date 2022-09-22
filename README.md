@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/static/v1?label=Version&message=1.0.0&color=brightgreen" />
   </a>
   <a href="#" alt="XCode Version">
-    <img src="https://img.shields.io/static/v1?label=XCode%20Version&message=13.4.1&color=brightgreen&logo=xcode" />
+    <img src="https://img.shields.io/static/v1?label=XCode%20Version&message=14.0.0&color=brightgreen&logo=xcode" />
   </a>        
   <a href="#" alt="Swift Version">
     <img src="https://img.shields.io/static/v1?label=Swift%20Version&message=5.7&color=brightgreen&logo=swift" />
@@ -48,7 +48,7 @@ Explore Xcode, the essential tool of a world Class Developer, by becoming a supe
 
 |                               Superhero Card                               |                                  Xcode                                          |
 | :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="docs/images/SuperheroCardPasquale.png" title="Superhero Card" width="100%"> | <img src="docs/images/SuperheroCardXcode.png" title="Xcode" width="100%"> |
+| <img src="docs/images/SuperheroCardGianmarco.png" title="Superhero Card" width="100%"> | <img src="docs/images/SuperheroCardXcode.png" title="Xcode" width="100%"> |
 
 <br />
 
@@ -59,7 +59,7 @@ Explore Xcode, the essential tool of a world Class Developer, by becoming a supe
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/developer-academy-unina/workshop-superhero-card
+   git clone https://github.com/gianmarcogg03apple/workshop-superhero-card
    ```
 
 2. Open the ```.xcodeproj``` file
